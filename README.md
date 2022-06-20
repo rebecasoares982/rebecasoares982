@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rebecasoares982
-- 👀 I’m interested in tecnology and full stack development
-- 🌱 I’m currently learning HTML5, CSS3, PHP, .NET, Python and JavaScript.
+- 👀 I’m interested in tecnology, full stack development and mobile development
+- 🌱 I’m currently learning HTML5, CSS3, JavaScript, PHP and Python
 - 💞️ I’m looking to collaborate on projects
 - 📫 Connect me on LinkedIn (/rebecasoares982)
 
