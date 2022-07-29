@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rebecasoares982
-- 👀 I’m interested in tecnology, full stack development and mobile development
+- 👀 I’m interested in tecnology, front-end development and designer
 - 🌱 I’m currently learning HTML5, CSS3, JavaScript, UI/UX Designer
 - 💞️ I’m looking to collaborate on projects
 - 📫 Connect me on LinkedIn (/rebecasoares982)
