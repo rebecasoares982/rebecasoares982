@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rebecasoares982
-- 👀 I’m interested in tecnology, front-end development and ui/ux designer
-- 🌱 I’m currently learning HTML5, CSS3, JavaScript, TypeScript, Angular and UI/UX Designer
+- 👀 I’m interested in technology, front-end development, UI/UX design, artificial intelligence and machine learning
+- 🌱 I’m currently learning HTML5, CSS3, JavaScript, TypeScript, Angular, Python, R Programming and UI/UX Design
 - 💞️ I’m looking to collaborate on projects
 - 📫 Connect me on LinkedIn (/rebecasoares982)
 
