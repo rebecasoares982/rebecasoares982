@@ -1,8 +1,9 @@
-- 👋 Olá, eu sou @rebecasoares982
-- 💻 Atuo no desenvolvimento front-end e UX/UI design
-- 🎯 Atualmente estou me aprofundando em análise de dados, inteligência artificial e aprendizado de máquina
-- 💡 Estou interessada em colaborar em projetos e expandir meu conhecimento
-- 📫 Conecte-se comigo no LinkedIn (/rebecasoares982)
+👋 Olá, eu sou @rebecasoares982
+💻 Atuo no desenvolvimento front-end e UX/UI design
+🎯 Atualmente estou me aprofundando em análise de dados, inteligência artificial e aprendizado de máquina
+💡 Estou interessada em colaborar em projetos e expandir meu conhecimento
+
+📫 Conecte-se comigo no LinkedIn (/rebecasoares982)
 
 [![HTML5](https://img.shields.io/badge/HTML5-orange.svg?logo=html5)](https://html.com/)
 [![CSS3](https://img.shields.io/badge/CSS3-blue.svg?logo=css3)](https://www.w3.org/Style/CSS/)
