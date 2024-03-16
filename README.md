@@ -5,7 +5,7 @@
 - 📫 Connect me on LinkedIn (/rebecasoares982)
 
 [![HTML5](https://img.shields.io/badge/HTML5-orange.svg)](https://html.com/)
-[![CSS3](https://img.shields.io/badge/CSS33-orange.svg)](https://www.w3.org/Style/CSS/)
+[![CSS3](https://img.shields.io/badge/CSS3-blue.svg)](https://www.w3.org/Style/CSS/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Typescript](https://img.shields.io/badge/Typescript-blue.svg)](https://www.typescriptlang.org/)
 [![Angular](https://img.shields.io/badge/Angular-16-brightgreen.svg)](https://angular.io/)
