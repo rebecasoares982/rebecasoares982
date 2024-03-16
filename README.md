@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou @rebecasoares982
 - 👀 Estou interessada em tecnologia, desenvolvimento front-end, design UX/UI, inteligência artificial e aprendizado de máquina
-- 🌱 Atualmente estou aprendendo HTML5, CSS3, JavaScript, TypeScript, Angular, Python, R Programming e design UX/UI
+- 🌱 Atualmente estou aprendendo HTML5, CSS3, JavaScript, TypeScript, Angular, Python, R Programming e Design UX/UI
 - 💞️ Estou procurando colaborar em projetos
 - 📫 Conecte-se comigo no LinkedIn (/rebecasoares982)
 
@@ -8,9 +8,7 @@
 [![CSS3](https://img.shields.io/badge/CSS3-blue.svg?logo=css3)](https://www.w3.org/Style/CSS/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-yellow.svg?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Typescript](https://img.shields.io/badge/Typescript-blue.svg?color=294E80&logo=typescript)](https://www.typescriptlang.org/)
-[![Angular](https://img.shields.io/badge/Angular-red.svg?logo=angular)](https://angular.io/)  
-[![Angular Material](https://img.shields.io/badge/Angular%20Material-purple.svg?logo=angular)](https://material.angular.io/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-white.svg?logo=bootstrap)](https://getbootstrap.com/)
+[![Angular](https://img.shields.io/badge/Angular-red.svg?logo=angular)](https://angular.io/)  [![Angular Material](https://img.shields.io/badge/Angular%20Material-purple.svg?logo=angular)](https://material.angular.io/) [![Bootstrap](https://img.shields.io/badge/Bootstrap-white.svg?logo=bootstrap)](https://getbootstrap.com/)
 
 <!--- rebecasoares982/rebecasoares982 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. --->
