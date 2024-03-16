@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on projects
 - 📫 Connect me on LinkedIn (/rebecasoares982)
 
+![image](https://github.com/rebecasoares982/rebecasoares982/assets/98848463/53200dff-5921-4286-bc0c-066a69affd79)
+
 <!---
 rebecasoares982/rebecasoares982 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
