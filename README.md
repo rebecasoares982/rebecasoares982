@@ -6,7 +6,7 @@
 <br>
 -💡 Estou interessada em colaborar em projetos e expandir meu conhecimento
 <br><br>
-*📫 Conecte-se comigo no LinkedIn (/rebecasoares982)*
+<b>📫 Conecte-se comigo no LinkedIn (/rebecasoares982)<b>
 <br><br>
 [![HTML5](https://img.shields.io/badge/HTML5-orange.svg?logo=html5)](https://html.com/)
 [![CSS3](https://img.shields.io/badge/CSS3-blue.svg?logo=css3)](https://www.w3.org/Style/CSS/)
