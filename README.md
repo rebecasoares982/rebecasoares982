@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou @rebecasoares982
 - 👀 Estou interessada em tecnologia, desenvolvimento front-end, design UX/UI, inteligência artificial e aprendizado de máquina
-- 🌱 Atualmente estou aprendendo HTML5, CSS3, JavaScript, TypeScript, Angular, Python, R Programming e Design UX/UI
+- 🌱 Atualmente estou aprendendo Análise de Dados, Python, R Programming e Inteligência artificial
 - 💞️ Estou procurando colaborar em projetos
 - 📫 Conecte-se comigo no LinkedIn (/rebecasoares982)
 
