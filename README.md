@@ -4,7 +4,7 @@
 <br>
 -💻 Atuo no desenvolvimento front-end e UX/UI design
 <br>
--🎯 Atualmente estou me aprofundando em análise de dados, inteligência artificial e aprendizado de máquina
+-🎯 Atualmente estou me aprofundando no estudo de análise de dados, inteligência artificial e aprendizado de máquina
 <br>
 -💡 Estou interessada em colaborar em projetos e expandir meu conhecimento
 <br><br>
