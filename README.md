@@ -2,6 +2,8 @@
 <br>
 -🎓 Tecnóloga em Sistemas para Internet
 <br>
+-📚 Pós-graduada em Design de Produtos Digitais UX/UI
+<br>
 -💻 Atuo no desenvolvimento front-end e UX/UI design
 <br>
 -🎯 Atualmente estou me aprofundando no estudo de análise de dados, inteligência artificial e aprendizado de máquina
