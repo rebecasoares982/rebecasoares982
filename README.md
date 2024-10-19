@@ -17,6 +17,7 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-yellow.svg?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Typescript](https://img.shields.io/badge/Typescript-blue.svg?color=294E80&logo=typescript)](https://www.typescriptlang.org/)
 [![Angular](https://img.shields.io/badge/Angular-red.svg?logo=angular)](https://angular.io/)  [![Angular Material](https://img.shields.io/badge/Angular%20Material-purple.svg?logo=angular)](https://material.angular.io/) [![Bootstrap](https://img.shields.io/badge/Bootstrap-white.svg?logo=bootstrap)](https://getbootstrap.com/)
+[![Font Awesome](https://img.shields.io/badge/fontawesome-339AF0?style=flat-square&logo=fontawesome&logoColor=white)](https://fontawesome.com/)
 
 <!--- rebecasoares982/rebecasoares982 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. --->
