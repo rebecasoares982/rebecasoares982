@@ -1,12 +1,12 @@
 -👋 Olá, eu sou @rebecasoares982
 <br>
--🎓 Tecnóloga em Sistemas para Internet
+-🎓 Graduada em Sistemas para Internet
 <br>
 -📚 Pós-graduada em Design de Produtos Digitais UX/UI
 <br>
 -💻 Atuo no desenvolvimento Front-end e UX/UI Design
 <br>
--🎯 Atualmente estou me aprofundando no estudo de análise de dados, inteligência artificial e aprendizado de máquina
+-🎯 Atualmente estou me aprofundando no estudo de análise de dados, BI e inteligência artificial
 <br>
 -💡 Estou interessada em colaborar em projetos e expandir meu conhecimento
 <br><br>
