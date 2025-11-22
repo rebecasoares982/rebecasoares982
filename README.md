@@ -2,11 +2,11 @@
 <br>
 -🎓 Graduada em Sistemas para Internet
 <br>
--📚 Pós-graduada em Design de Produtos Digitais UX/UI e IA/Machine Learning
+-📚 Pós-graduada em UX/UI e IA/ML
 <br>
 -💻 Atuo no desenvolvimento Front-end
 <br>
--🎯 Atualmente estou me aprofundando no estudo de gestão, BI e inteligência artificial
+-🎯 Atualmente estou me aprofundando no estudo de gestão e python
 <br>
 -💡 Estou interessada em colaborar em projetos e expandir meu conhecimento
 <br><br>
