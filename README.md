@@ -6,7 +6,7 @@
 <br>
 -💻 Atuo no desenvolvimento Front-end
 <br>
--🎯 Atualmente estou me aprofundando no estudo de gestão e python
+-🎯 Atualmente estou me aprofundando no estudo de back-end com python
 <br>
 -💡 Estou interessada em colaborar em projetos e expandir meu conhecimento
 <br><br>
